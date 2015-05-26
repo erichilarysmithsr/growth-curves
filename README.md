@@ -1,3 +1,5 @@
+Abstract about implications for further study
+
 # Growth curves: childhood obesity prediction
 
 [![NorthShore Hopsital](http://dssg.io/img/partners/northshore.jpg)](http://www.northshore.org/)
